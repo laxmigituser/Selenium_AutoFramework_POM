@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- parallel="methods" thread-count="5" -->
+<suite name="Home Test Suite" parallel="methods" thread-count="5">
+	<listeners>
+		<listener class-name = "com.qa.util.CustomListener" />
+		<listener class-name = "com.qa.util.TestRetryAnalyzerListener" />
+	</listeners>
+  <test name="Home Page Test">
+    <classes>
+      <!-- <class name="com.qa.testcases.HomePageTest"/>
+      <class name="com.qa.testcases.EnterVehicleDataPageTest"/>
+      <class name="com.qa.testcases.EnterInsurantDataPageTest"/> -->
+      <class name="com.qa.testcases.EnterProductDataPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

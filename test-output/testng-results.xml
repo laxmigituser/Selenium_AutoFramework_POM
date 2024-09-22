@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-22T17:39:56 IST" name="Home Test Suite" finished-at="2024-09-22T17:40:32 IST" duration-ms="36170">
+    <groups>
+    </groups>
+    <test started-at="2024-09-22T17:39:56 IST" name="Home Page Test" finished-at="2024-09-22T17:40:32 IST" duration-ms="36170">
+      <class name="com.qa.testcases.EnterProductDataPageTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:39:56 IST" name="launchApplication" finished-at="2024-09-22T17:40:07 IST" duration-ms="10814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:39:56 IST" name="launchApplication" finished-at="2024-09-22T17:40:06 IST" duration-ms="9827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:39:56 IST" name="launchApplication" finished-at="2024-09-22T17:40:08 IST" duration-ms="12122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:39:56 IST" name="launchApplication" finished-at="2024-09-22T17:40:06 IST" duration-ms="9903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="truck_productData_Pagetest()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:40:06 IST" name="truck_productData_Pagetest" finished-at="2024-09-22T17:40:29 IST" duration-ms="23327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- truck_productData_Pagetest -->
+        <test-method signature="camper_productData_Pagetest()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:40:06 IST" name="camper_productData_Pagetest" finished-at="2024-09-22T17:40:32 IST" duration-ms="25921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- camper_productData_Pagetest -->
+        <test-method signature="automobile_productData_Pagetest()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:40:07 IST" name="automobile_productData_Pagetest" finished-at="2024-09-22T17:40:29 IST" duration-ms="22827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automobile_productData_Pagetest -->
+        <test-method signature="motorCycle_productData_Pagetest()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:40:08 IST" name="motorCycle_productData_Pagetest" finished-at="2024-09-22T17:40:29 IST" duration-ms="20661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- motorCycle_productData_Pagetest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:40:29 IST" name="tearDown" finished-at="2024-09-22T17:40:30 IST" duration-ms="1690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:40:29 IST" name="tearDown" finished-at="2024-09-22T17:40:30 IST" duration-ms="1310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:40:30 IST" name="tearDown" finished-at="2024-09-22T17:40:30 IST" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.EnterProductDataPageTest@7a69b07]" started-at="2024-09-22T17:40:32 IST" name="tearDown" finished-at="2024-09-22T17:40:32 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.EnterProductDataPageTest -->
+    </test> <!-- Home Page Test -->
+  </suite> <!-- Home Test Suite -->
+</testng-results>
